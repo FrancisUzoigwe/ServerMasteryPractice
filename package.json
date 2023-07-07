@@ -1,0 +1,19 @@
+{
+  "name": "francis-server",
+  "version": "1.0.0",
+  "description": "francis backend server practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "ts-node-dev --respawn --transpile-only Index.ts"
+  },
+  "keywords": [
+    "backend",
+    "code10x",
+    "server",
+    "coding",
+    "codelab"
+  ],
+  "author": "francis-uzoigwe",
+  "license": "MIT"
+}
